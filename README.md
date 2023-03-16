@@ -1,21 +1,26 @@
-### Hi there 👋
+### Привет, я Коля 👋
 
+Наичнающий программист с опытом работы в групповых проектах. Обладаю базовыми знаниями в Java-разработке. В настоящий момент продолжаю изучать Java и основы программирования на языке Си.
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"/>
 </div>
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KolyaDavydov&layout=compact&hide_border=true)](https://github.com/KolyaDavydov?tab=repositories)</br>
+<p align='center'>
+   <a href="https://t.me/kolyadavydov">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+<p align='center'>
+   📫 Как связаться со мной: <a href='mailto:kolya.davydov@inbox.ru'>kolya.davydov@inbox.ru</a>
+</p>
 
-![Info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KolyaDavydov&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KolyaDavydov&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KolyaDavydov&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KolyaDavydov&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KolyaDavydov&theme=solarized_dark)
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=KolyaDavydov&show_icons=true&count_private=true"><img
+           height=150
+           src="https://github-readme-stats.vercel.app/api?username=KolyaDavydov&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/KolyaDavydov/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KolyaDavydov&layout=compact"/></a>
+</p>
 
-
-[![KolyaDavydov Github stats](https://github-readme-stats.vercel.app/api?username=KolyaDavydov&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true)](https://github.com/KolyaDavydovn?tab=repositories)
-
-<img alt="surfi's visitors" src="https://komarev.com/ghpvc/?username=KolyaDavydovn&color=blue&style=flat&label=visitors" />
 ---
 
 <!--
