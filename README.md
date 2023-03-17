@@ -27,6 +27,7 @@
 *   Java
 *   C
 *   bash
+*   HTML/CSS
 *   Qt Creator
 *   git (GitHub/GitLab)
 
