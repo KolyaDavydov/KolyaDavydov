@@ -34,6 +34,9 @@
 
 ### Ключевые навыки (фреймворки, технологии, интерпритаторы, библиотеки и т.д.)
 *   git (GitHub/GitLab)
+*   Tensorflow/Keras
+*   OpenCV
+*   Pandas/numpy
 *   QtCreator
 *   Bash
 *   Docker
@@ -48,7 +51,6 @@
 *   Innopolis university "Архитектор в области исскуственного интелекта"
 *   Тинькофф образование "Анализ данных"
 *   JavaRush
-*   Epam Training Center (Основы Java)
 
 
 <!--
